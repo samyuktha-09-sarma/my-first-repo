@@ -1,0 +1,1 @@
+One thing i learned about github is that it helps in version control and collaboration on coding projects
